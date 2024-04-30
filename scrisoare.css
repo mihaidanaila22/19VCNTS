@@ -1,0 +1,8 @@
+.scrisoare{
+    display: flex;
+    flex-direction: column;
+}
+
+.scrisoare .sign{
+    text-align: end;
+}
